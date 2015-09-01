@@ -9,6 +9,11 @@
 <img src="./screenshot/S50611-164132.jpg" width="30%" height="30%">
 
 <img src="./screenshot/S50611-164146.jpg" width="30%" height="30%">
+#1.1.3 (预计功能实现)
+- 添加EverNode 同步通过 以及解决现有只支持com.android.mail 邮箱限制
+- 增加关于云共享笔记链接(类似pocket功能)
+- 修复了笔记过长的显示问题
+
 
 #1.1.2
 - 增加了多款彩色主题的选择
